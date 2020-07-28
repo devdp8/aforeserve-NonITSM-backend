@@ -1,0 +1,37 @@
+# TABLE TICKETS COLUMN NAMES:
+
+`Incident ID` VARCHAR(255),
+ Description VARCHAR(255),
+`Private Log` VARCHAR(255),
+ Caller VARCHAR(255),
+ Tenant VARCHAR(255),
+ User_Mail VARCHAR(255),
+ Location VARCHAR(255),
+ Medium VARCHAR(255),
+ Source VARCHAR(255),
+`Logged Time` VARCHAR(255),
+ Urgency VARCHAR(255),
+ Impact VARCHAR(255),
+ Priority VARCHAR(255),
+`Work Group` VARCHAR(255),
+`Assigned To` VARCHAR(255),
+`Service Window` VARCHAR(255),
+ predicted_class_num VARCHAR(255),
+ Issue_Class VARCHAR(255),
+ Status VARCHAR(50),
+ Solution VARCHAR(50),
+ MAC_ID VARCHAR(50)
+ 
+ 
+ # TABLE USERDETAILS COLUMN NAMES:
+ 
+ Hostname VARCHAR(255),
+`IP_Address` VARCHAR(255),
+`MAC_ID` VARCHAR(255),
+`Serial_Number` VARCHAR(255),
+`OS_Version` VARCHAR(255),
+`Laptop_Desktop` VARCHAR(255),
+`IN_SERVER` VARCHAR(255),
+`OUT_SERVER` VARCHAR(255),
+`Direct_Printers` VARCHAR(255),
+`User_Name` VARCHAR(255)
