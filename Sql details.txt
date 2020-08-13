@@ -1,0 +1,59 @@
+1. Create 3 Database :
+                    1.CREATE DATABASE manage_engine;
+                    
+                    2.CREATE DATABASE symphony;
+                    
+                    3.CREATE DATABASE non_itsm;
+
+--------------------------------------------------------------------
+
+2. For all 3 databases run the following commands:
+
+CREATE TABLE tickets (`Incident ID` VARCHAR(255),Description VARCHAR(255),
+`Private Log` VARCHAR(255),
+ Caller VARCHAR(255),
+ Tenant VARCHAR(255),
+ User_Mail VARCHAR(255),
+ Location VARCHAR(255),
+ Medium VARCHAR(255),
+ Source VARCHAR(255),
+`Logged Time` VARCHAR(255),
+ Urgency VARCHAR(255),
+ Impact VARCHAR(255),
+ Priority VARCHAR(255),
+`Work Group` VARCHAR(255),
+`Assigned To` VARCHAR(255),
+`Service Window` VARCHAR(255),
+ predicted_class_num VARCHAR(255),
+ Issue_Class VARCHAR(255),
+ Status VARCHAR(50),
+ Solution VARCHAR(50),
+ MAC_ID VARCHAR(50));
+ 
+-------------------------------------------------------------------------
+ 
+CREATE TABLE userdetails(
+ Hostname VARCHAR(255),
+`IP_Address` VARCHAR(255),
+`MAC_ID` VARCHAR(255),
+`Serial_Number` VARCHAR(255),
+`OS_Version` VARCHAR(255),
+`Laptop_Desktop` VARCHAR(255),
+`IN_SERVER` VARCHAR(255),
+`OUT_SERVER` VARCHAR(255),
+`Direct_Printers` VARCHAR(255),
+`User_Name` VARCHAR(255),
+`emailid` VARCHAR(255));
+
+----------------------------------------------------------------------------
+
+CREATE TABLE feedbacks(
+comment VARCHAR(255),
+Ticket VARCHAR(255),
+MAC_ID VARCHAR(255));
+
+----------------------------------------------------------------------------
+
+3. Copy the link of the databases and paste in the config_test.ini file (sql link = )
+
+4. All set

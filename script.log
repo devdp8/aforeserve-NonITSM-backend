@@ -1,0 +1,548 @@
+2020-07-25 13:04:40,440 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:04:41,403 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-25 13:04:41,403 - config - loginAndFetchTickets - INFO - Finding ticket attributes and storing it in a dataframe
+2020-07-25 13:04:41,403 - config - loginAndFetchTickets - INFO - This checks if the ticket is new
+2020-07-25 13:04:41,403 - config - loginAndFetchTickets - INFO - 12388picked up
+2020-07-25 13:04:42,114 - config - loginAndFetchTickets - INFO - Appending incident id
+2020-07-25 13:04:42,114 - config - loginAndFetchTickets - INFO - Storing the symptoms and appends
+2020-07-25 13:04:42,114 - config - loginAndFetchTickets - INFO - Stores the private log
+2020-07-25 13:04:42,114 - config - loginAndFetchTickets - INFO - Stores the solution
+2020-07-25 13:04:42,114 - config - loginAndFetchTickets - INFO - All data entries appended
+2020-07-25 13:04:42,114 - config - loginAndFetchTickets - INFO - Finding ticket attributes and storing it in a dataframe
+2020-07-25 13:04:42,114 - config - loginAndFetchTickets - INFO - This checks if the ticket is new
+2020-07-25 13:04:42,114 - config - loginAndFetchTickets - INFO - 12389picked up
+2020-07-25 13:04:42,673 - config - loginAndFetchTickets - INFO - Appending incident id
+2020-07-25 13:04:42,674 - config - loginAndFetchTickets - INFO - Storing the symptoms and appends
+2020-07-25 13:04:42,674 - config - loginAndFetchTickets - INFO - Stores the private log
+2020-07-25 13:04:42,674 - config - loginAndFetchTickets - INFO - Stores the solution
+2020-07-25 13:04:42,674 - config - loginAndFetchTickets - INFO - All data entries appended
+2020-07-25 13:04:42,674 - config - loginAndFetchTickets - INFO - Finding ticket attributes and storing it in a dataframe
+2020-07-25 13:04:42,674 - config - loginAndFetchTickets - INFO - This checks if the ticket is new
+2020-07-25 13:04:42,674 - config - loginAndFetchTickets - INFO - 12390picked up
+2020-07-25 13:04:43,235 - config - loginAndFetchTickets - INFO - Appending incident id
+2020-07-25 13:04:43,235 - config - loginAndFetchTickets - INFO - Storing the symptoms and appends
+2020-07-25 13:04:43,236 - config - loginAndFetchTickets - INFO - Stores the private log
+2020-07-25 13:04:43,236 - config - loginAndFetchTickets - INFO - Stores the solution
+2020-07-25 13:04:43,236 - config - loginAndFetchTickets - INFO - All data entries appended
+2020-07-25 13:04:43,236 - config - loginAndFetchTickets - INFO - Finding ticket attributes and storing it in a dataframe
+2020-07-25 13:04:43,236 - config - loginAndFetchTickets - INFO - This checks if the ticket is new
+2020-07-25 13:04:43,236 - config - loginAndFetchTickets - INFO - 12391picked up
+2020-07-25 13:04:43,839 - config - loginAndFetchTickets - INFO - Appending incident id
+2020-07-25 13:04:43,839 - config - loginAndFetchTickets - INFO - Storing the symptoms and appends
+2020-07-25 13:04:43,839 - config - loginAndFetchTickets - INFO - Stores the private log
+2020-07-25 13:04:43,839 - config - loginAndFetchTickets - INFO - Stores the solution
+2020-07-25 13:04:43,840 - config - loginAndFetchTickets - INFO - All data entries appended
+2020-07-25 13:04:43,840 - config - loginAndFetchTickets - INFO - Finding ticket attributes and storing it in a dataframe
+2020-07-25 13:04:43,840 - config - loginAndFetchTickets - INFO - This checks if the ticket is new
+2020-07-25 13:04:43,840 - config - loginAndFetchTickets - INFO - 12392picked up
+2020-07-25 13:04:44,400 - config - loginAndFetchTickets - INFO - Appending incident id
+2020-07-25 13:04:44,401 - config - loginAndFetchTickets - INFO - Storing the symptoms and appends
+2020-07-25 13:04:44,401 - config - loginAndFetchTickets - INFO - Stores the private log
+2020-07-25 13:04:44,401 - config - loginAndFetchTickets - INFO - Stores the solution
+2020-07-25 13:04:44,401 - config - loginAndFetchTickets - INFO - All data entries appended
+2020-07-25 13:04:44,401 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-25 13:04:44,417 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-25 13:06:12,686 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:06:13,220 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-25 13:06:13,221 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-25 13:06:13,280 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-25 13:07:20,772 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:07:21,338 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-25 13:07:21,338 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-25 13:07:21,342 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-25 13:07:21,405 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:07:22,086 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-25 13:07:22,089 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-25 13:07:22,096 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-25 13:07:31,987 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:07:32,528 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-25 13:07:32,529 - config - loginAndFetchTickets - INFO - Finding ticket attributes and storing it in a dataframe
+2020-07-25 13:07:32,529 - config - loginAndFetchTickets - INFO - This checks if the ticket is new
+2020-07-25 13:07:32,529 - config - loginAndFetchTickets - INFO - 12393picked up
+2020-07-25 13:07:33,062 - config - loginAndFetchTickets - INFO - Appending incident id
+2020-07-25 13:07:33,062 - config - loginAndFetchTickets - INFO - Storing the symptoms and appends
+2020-07-25 13:07:33,062 - config - loginAndFetchTickets - INFO - Stores the private log
+2020-07-25 13:07:33,062 - config - loginAndFetchTickets - INFO - Stores the solution
+2020-07-25 13:07:33,062 - config - loginAndFetchTickets - INFO - All data entries appended
+2020-07-25 13:07:33,062 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-25 13:07:33,074 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-25 13:07:33,077 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:07:33,784 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-25 13:07:33,787 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-25 13:07:33,796 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-25 13:09:44,502 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:09:45,045 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-25 13:09:45,046 - config - loginAndFetchTickets - INFO - Finding ticket attributes and storing it in a dataframe
+2020-07-25 13:09:45,046 - config - loginAndFetchTickets - INFO - This checks if the ticket is new
+2020-07-25 13:09:45,046 - config - loginAndFetchTickets - INFO - 12394picked up
+2020-07-25 13:09:45,662 - config - loginAndFetchTickets - INFO - Appending incident id
+2020-07-25 13:09:45,663 - config - loginAndFetchTickets - INFO - Storing the symptoms and appends
+2020-07-25 13:09:45,663 - config - loginAndFetchTickets - INFO - Stores the private log
+2020-07-25 13:09:45,663 - config - loginAndFetchTickets - INFO - Stores the solution
+2020-07-25 13:09:45,663 - config - loginAndFetchTickets - INFO - All data entries appended
+2020-07-25 13:09:45,663 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-25 13:09:45,676 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-25 13:09:45,682 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:09:46,360 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-25 13:09:46,363 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-25 13:09:46,370 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-25 13:23:32,763 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:24:54,430 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:24:56,146 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:24:56,828 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-25 13:24:56,831 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-25 13:24:56,839 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-25 13:26:32,326 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:26:33,507 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:26:34,184 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-25 13:26:34,187 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-25 13:26:34,196 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-25 13:27:12,111 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:27:13,277 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:27:13,278 - config - predictionsOnEachTicket - ERROR - Error in removing contractions part 1 index out of bounds
+Traceback (most recent call last):
+  File "/home/dev/.local/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 4723, in get_value
+    return self._engine.get_value(s, k, tz=getattr(series.dtype, "tz", None))
+  File "pandas/_libs/index.pyx", line 80, in pandas._libs.index.IndexEngine.get_value
+  File "pandas/_libs/index.pyx", line 88, in pandas._libs.index.IndexEngine.get_value
+  File "pandas/_libs/index.pyx", line 131, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 992, in pandas._libs.hashtable.Int64HashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 998, in pandas._libs.hashtable.Int64HashTable.get_item
+KeyError: 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dev/NON ITSM/predicting_part.py", line 36, in predictionsOnEachTicket
+    df['Description_Uncontracted']=df['Description'][0].apply(removeContractions1)
+  File "/home/dev/.local/lib/python3.6/site-packages/pandas/core/series.py", line 1064, in __getitem__
+    result = self.index.get_value(self, key)
+  File "/home/dev/.local/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 4729, in get_value
+    return libindex.get_value_box(s, key)
+  File "pandas/_libs/index.pyx", line 51, in pandas._libs.index.get_value_box
+  File "pandas/_libs/index.pyx", line 47, in pandas._libs.index.get_value_at
+  File "pandas/_libs/util.pxd", line 98, in pandas._libs.util.get_value_at
+  File "pandas/_libs/util.pxd", line 89, in pandas._libs.util.validate_indexer
+IndexError: index out of bounds
+2020-07-25 13:28:27,518 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:28:28,615 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:28:28,615 - config - predictionsOnEachTicket - ERROR - Error in removing contractions part 1 index out of bounds
+Traceback (most recent call last):
+  File "/home/dev/.local/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 4723, in get_value
+    return self._engine.get_value(s, k, tz=getattr(series.dtype, "tz", None))
+  File "pandas/_libs/index.pyx", line 80, in pandas._libs.index.IndexEngine.get_value
+  File "pandas/_libs/index.pyx", line 88, in pandas._libs.index.IndexEngine.get_value
+  File "pandas/_libs/index.pyx", line 131, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 992, in pandas._libs.hashtable.Int64HashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 998, in pandas._libs.hashtable.Int64HashTable.get_item
+KeyError: 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dev/NON ITSM/predicting_part.py", line 36, in predictionsOnEachTicket
+    df['Description_Uncontracted']=df['Description'][0].apply(removeContractions1)
+  File "/home/dev/.local/lib/python3.6/site-packages/pandas/core/series.py", line 1064, in __getitem__
+    result = self.index.get_value(self, key)
+  File "/home/dev/.local/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 4729, in get_value
+    return libindex.get_value_box(s, key)
+  File "pandas/_libs/index.pyx", line 51, in pandas._libs.index.get_value_box
+  File "pandas/_libs/index.pyx", line 47, in pandas._libs.index.get_value_at
+  File "pandas/_libs/util.pxd", line 98, in pandas._libs.util.get_value_at
+  File "pandas/_libs/util.pxd", line 89, in pandas._libs.util.validate_indexer
+IndexError: index out of bounds
+2020-07-25 13:28:46,312 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:28:47,511 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:28:47,511 - config - predictionsOnEachTicket - ERROR - Error in removing contractions part 1 index out of bounds
+Traceback (most recent call last):
+  File "/home/dev/.local/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 4723, in get_value
+    return self._engine.get_value(s, k, tz=getattr(series.dtype, "tz", None))
+  File "pandas/_libs/index.pyx", line 80, in pandas._libs.index.IndexEngine.get_value
+  File "pandas/_libs/index.pyx", line 88, in pandas._libs.index.IndexEngine.get_value
+  File "pandas/_libs/index.pyx", line 131, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 992, in pandas._libs.hashtable.Int64HashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 998, in pandas._libs.hashtable.Int64HashTable.get_item
+KeyError: 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dev/NON ITSM/predicting_part.py", line 36, in predictionsOnEachTicket
+    df['Description_Uncontracted']=df['Description'][0].apply(removeContractions1)
+  File "/home/dev/.local/lib/python3.6/site-packages/pandas/core/series.py", line 1064, in __getitem__
+    result = self.index.get_value(self, key)
+  File "/home/dev/.local/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 4729, in get_value
+    return libindex.get_value_box(s, key)
+  File "pandas/_libs/index.pyx", line 51, in pandas._libs.index.get_value_box
+  File "pandas/_libs/index.pyx", line 47, in pandas._libs.index.get_value_at
+  File "pandas/_libs/util.pxd", line 98, in pandas._libs.util.get_value_at
+  File "pandas/_libs/util.pxd", line 89, in pandas._libs.util.validate_indexer
+IndexError: index out of bounds
+2020-07-25 13:30:39,819 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:30:41,009 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:30:41,688 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-25 13:30:41,691 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-25 13:30:41,698 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-25 13:32:27,263 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:32:28,430 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:33:56,446 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:33:57,618 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:33:58,305 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-25 13:33:58,308 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-25 13:33:58,315 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-25 13:34:55,308 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:34:56,510 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:34:57,209 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-25 13:34:57,212 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-25 13:34:57,219 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-25 13:35:37,986 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:35:39,164 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:35:39,165 - config - predictionsOnEachTicket - ERROR - Error in removing contractions part 1 index out of bounds
+Traceback (most recent call last):
+  File "/home/dev/.local/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 4723, in get_value
+    return self._engine.get_value(s, k, tz=getattr(series.dtype, "tz", None))
+  File "pandas/_libs/index.pyx", line 80, in pandas._libs.index.IndexEngine.get_value
+  File "pandas/_libs/index.pyx", line 88, in pandas._libs.index.IndexEngine.get_value
+  File "pandas/_libs/index.pyx", line 131, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 992, in pandas._libs.hashtable.Int64HashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 998, in pandas._libs.hashtable.Int64HashTable.get_item
+KeyError: 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dev/NON ITSM/predicting_part.py", line 36, in predictionsOnEachTicket
+    df['Description_Uncontracted']=df['Description'][0].apply(removeContractions1)
+  File "/home/dev/.local/lib/python3.6/site-packages/pandas/core/series.py", line 1064, in __getitem__
+    result = self.index.get_value(self, key)
+  File "/home/dev/.local/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 4729, in get_value
+    return libindex.get_value_box(s, key)
+  File "pandas/_libs/index.pyx", line 51, in pandas._libs.index.get_value_box
+  File "pandas/_libs/index.pyx", line 47, in pandas._libs.index.get_value_at
+  File "pandas/_libs/util.pxd", line 98, in pandas._libs.util.get_value_at
+  File "pandas/_libs/util.pxd", line 89, in pandas._libs.util.validate_indexer
+IndexError: index out of bounds
+2020-07-25 13:36:31,410 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:36:32,623 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:36:33,300 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-25 13:36:33,303 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-25 13:36:33,310 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-25 13:37:43,821 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:37:45,001 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:37:45,678 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-25 13:37:45,681 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-25 13:37:45,688 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-25 13:39:55,441 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:39:56,617 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:39:56,620 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-25 13:39:57,300 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-25 13:39:57,312 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-25 13:39:57,319 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-25 13:46:55,429 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:46:56,581 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:46:56,584 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-25 13:46:57,257 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-25 13:46:57,268 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-25 13:46:57,275 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-25 13:48:49,761 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:48:50,875 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:48:50,878 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-25 13:48:51,564 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-25 13:48:51,575 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-25 13:48:51,582 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-25 13:50:06,311 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 13:50:07,437 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 13:50:07,439 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-25 13:50:08,112 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-25 13:50:08,123 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-25 13:50:08,130 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-25 13:52:43,775 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-07-25 13:54:33,229 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-07-25 13:54:33,251 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-07-25 13:55:33,591 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-07-25 13:55:33,612 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-07-25 13:55:34,207 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-07-25 14:06:00,691 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 14:06:01,815 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 14:06:01,818 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-25 14:06:02,537 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-25 14:06:02,550 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-25 14:06:02,559 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-25 14:08:26,445 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-07-25 14:08:26,464 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-07-25 14:08:27,008 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-07-25 14:09:21,772 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-25 14:09:22,911 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-25 14:09:22,914 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-25 14:09:23,615 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-25 14:09:23,626 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-25 14:09:23,634 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-27 09:44:17,857 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-27 09:44:20,234 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-27 09:44:20,236 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-27 09:44:20,905 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-27 09:44:20,917 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-27 09:44:20,923 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-27 09:46:45,625 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-07-27 09:46:45,646 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-07-27 09:46:46,212 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-07-27 09:48:06,620 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-27 09:48:07,740 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-27 09:48:07,741 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-27 09:48:08,325 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-27 09:48:08,336 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-27 09:48:08,342 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-28 11:31:43,266 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-28 11:31:44,887 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-28 11:31:44,889 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-28 11:31:45,581 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-28 11:31:45,593 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-28 11:31:45,600 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-28 11:37:43,780 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-28 11:37:44,928 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-28 11:37:44,929 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-28 11:37:45,625 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-28 11:37:45,636 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-28 11:37:45,643 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-30 08:41:31,224 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-30 08:41:34,315 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-30 08:41:34,316 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-30 08:41:34,317 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-30 08:41:34,317 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-30 08:41:35,091 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-30 08:41:35,116 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-30 08:41:35,123 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-30 08:48:29,294 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-30 08:48:30,272 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-30 08:48:30,273 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-30 08:48:30,981 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-30 08:48:30,991 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-30 08:48:30,998 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-30 08:57:40,943 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-30 08:57:42,258 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-30 08:57:42,260 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-30 08:57:42,919 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-30 08:57:42,929 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-30 08:57:42,937 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 06:42:07,446 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 06:42:07,449 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 06:42:09,442 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 06:42:09,444 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 06:42:09,444 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 06:42:09,548 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 06:42:09,562 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 06:42:09,573 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 06:42:10,834 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 06:42:10,840 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 06:42:10,866 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 06:42:10,875 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 06:42:10,877 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 06:42:10,884 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 08:50:53,621 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 08:50:55,253 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 08:50:55,255 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 08:50:55,964 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 08:50:55,975 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 08:50:55,981 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 08:54:52,857 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 08:54:53,859 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 08:54:53,860 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 08:54:54,525 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 08:54:54,536 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 08:54:54,543 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 09:03:52,876 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 09:03:56,936 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 09:03:56,938 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 09:03:57,551 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 09:03:57,562 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 09:03:57,569 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 09:06:11,212 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 09:06:12,225 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 09:06:12,227 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 09:06:12,890 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 09:06:12,901 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 09:06:12,907 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 09:06:19,801 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-08-04 09:06:19,819 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-08-04 09:06:20,594 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-08-04 09:09:00,696 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 09:09:01,739 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 09:09:01,741 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 09:09:02,344 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 09:09:02,355 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 09:09:02,362 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 09:09:10,643 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-08-04 09:09:10,660 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-08-04 09:09:11,169 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-08-04 10:33:36,357 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 10:33:37,981 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 10:33:37,982 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 10:33:38,633 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 10:33:38,643 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 10:33:38,650 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 10:36:23,471 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 10:36:24,523 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 10:36:24,525 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 10:36:25,122 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 10:36:25,132 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 10:36:25,139 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 10:41:33,065 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 10:41:34,055 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 10:41:34,057 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 10:41:34,718 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 10:41:34,729 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 10:41:34,735 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 10:44:00,220 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 10:44:01,339 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 10:44:01,341 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 10:44:01,960 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 10:44:01,970 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 10:44:01,977 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 10:48:21,228 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 10:48:22,569 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 10:48:22,571 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 10:48:23,235 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 10:48:23,245 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 10:48:23,252 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 10:57:43,224 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 10:57:44,289 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 10:57:44,290 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 10:57:44,885 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 10:57:44,896 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 10:57:44,902 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 11:04:45,818 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 11:04:46,927 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 11:04:46,929 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 11:04:47,589 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 11:04:47,599 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 11:04:47,606 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 11:05:23,449 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-08-04 11:05:23,466 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-08-04 11:05:23,971 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-08-04 11:11:30,796 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 11:11:42,105 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 11:11:42,106 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 11:11:42,701 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 11:11:42,712 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 11:11:42,718 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 11:12:18,970 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-08-04 11:12:18,988 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-08-04 11:12:19,466 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-08-04 11:15:46,659 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 11:15:47,678 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 11:15:47,680 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 11:15:48,351 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 11:15:48,362 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 11:15:48,369 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 11:16:24,737 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-08-04 11:16:24,755 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-08-04 11:16:25,235 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-08-04 11:18:13,325 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 11:18:14,378 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 11:18:14,380 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 11:18:14,976 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 11:18:14,987 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 11:18:14,994 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 11:18:51,624 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-08-04 11:18:51,642 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-08-04 11:18:52,258 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-08-04 11:22:54,226 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 11:22:55,308 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 11:22:55,309 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 11:22:55,967 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 11:22:55,978 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 11:22:55,985 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 11:23:31,682 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-08-04 11:23:31,700 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-08-04 11:23:32,256 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-08-04 11:31:38,676 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 11:31:39,657 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 11:31:39,659 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 11:31:40,259 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 11:31:40,269 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 11:31:40,275 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 11:34:33,340 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 11:34:34,314 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 11:34:34,316 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 11:34:34,981 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 11:34:34,992 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 11:34:34,998 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 11:37:39,204 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-04 11:37:41,706 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-04 11:37:41,707 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-04 11:37:42,308 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-04 11:37:42,318 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-04 11:37:42,325 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-04 11:38:18,383 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-08-04 11:38:18,402 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-08-04 11:38:19,158 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-08-05 17:38:16,351 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-05 17:38:17,675 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-05 17:38:17,676 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-05 17:38:18,394 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-05 17:38:18,404 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-05 17:38:18,411 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-05 17:38:28,891 - config - assigntickets - ERROR - In update ticket part
+NoneType: None
+2020-08-05 17:38:28,910 - config - assigntickets - ERROR - data updated in db
+NoneType: None
+2020-08-05 17:38:29,397 - config - assigntickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-08-07 06:05:13,556 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-07 06:05:15,782 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-07 06:05:15,783 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-08-07 06:05:16,508 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-07 06:05:16,519 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-07 06:05:16,526 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-07 06:05:25,193 - config - assigntickets - ERROR - In update ticket part
+NoneType: None
+2020-08-07 06:05:25,231 - config - assigntickets - ERROR - data updated in db
+NoneType: None
+2020-08-07 06:05:25,763 - config - assigntickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-08-13 14:43:46,162 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-13 14:43:46,421 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-13 14:43:47,165 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-13 14:43:47,166 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-13 14:43:47,193 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-08-13 14:51:22,158 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-08-13 14:51:22,361 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-08-13 14:51:22,989 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-08-13 14:51:22,990 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-08-13 14:51:22,997 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
